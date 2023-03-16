@@ -14,6 +14,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [From Security to Performance: Comparing Optimistic Rollups and zkRollups in the DeFi Space](https://aniketpr01.medium.com/from-security-to-performance-comparing-optimistic-rollups-and-zkrollups-in-the-defi-space-46f0f0ab3e5f?source=rss-67a7911682c1------2)
+- [As a developer, working with smart contract events on the blockchain can be challenging, as it…](https://medium.com/coinmonks/as-a-developer-working-with-smart-contract-events-on-the-blockchain-can-be-challenging-as-it-9dfc8b80ee37?source=rss-67a7911682c1------2)
+- [The Benefits and Challenges of Implementing Upgradeable Smart Contracts](https://aniketpr01.medium.com/the-benefits-and-challenges-of-implementing-upgradeable-smart-contracts-7b48d7157018?source=rss-67a7911682c1------2)
+- [The dangers of using blockhash and block timestamp for randomness in Ethereum contracts](https://aniketpr01.medium.com/the-dangers-of-using-blockhash-and-block-timestamp-for-randomness-in-ethereum-contracts-88ebece2ad08?source=rss-67a7911682c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
