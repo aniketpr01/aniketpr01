@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi there 👋, I'm Aniket!:
 🔭 I’m currently working on smart contract development<br>🤝 I’m looking to collaborate and work on Smart contract Development, ZK-based apps, Hackathons<br>📈 I’m currently learning Rust, Cryptography, ZKP<br>📫 How to reach me **anikethprajapati@gmail.com**<br>📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mwXPMMeLc7fFmknl-md9bVOj7Em1RKq_/view?usp=sharing)<br>
 
 
