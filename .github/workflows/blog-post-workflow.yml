@@ -11,8 +11,8 @@ jobs:
         steps: 
             - name: Checkout 
               uses: actions/checkout@v3
-            - name: Pull in posts
-              uses: gautamkrishnar/blog-post-workflow@master
+            - name: Blog Post Workflow
+              uses: gautamkrishnar/blog-post-workflow@1.8.2
               with: 
                 max_post_count: "4"
-                feed_list: "https://aniketpr01.medium.com/"
+                feed_list: "https://aniketpr01.medium.com/feed"
