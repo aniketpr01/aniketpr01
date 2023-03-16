@@ -15,4 +15,4 @@ jobs:
               uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://dev.to/aniketpr01,https://medium.com/@aniketpr01"
+                feed_list: "https://aniketpr01.medium.com/"
