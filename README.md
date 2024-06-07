@@ -16,6 +16,10 @@
 - [The dangers of using blockhash and block timestamp for randomness in Ethereum contracts](https://aniketpr01.medium.com/the-dangers-of-using-blockhash-and-block-timestamp-for-randomness-in-ethereum-contracts-88ebece2ad08?source=rss-67a7911682c1------2)
 <!-- BLOG-POST-LIST:END -->
 
+#### Github Stats 📊
+
+[![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniketpr01)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aniketpr01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
