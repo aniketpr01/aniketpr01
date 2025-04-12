@@ -1,7 +1,3 @@
-# 💫 Hi there 👋, I'm Aniket!:
-🔭 Open source contributor at Starknet ecosystem<br>🤝 Exploring ZKP, modular stack <br>📈 Rust, Cairo, Python, Typescript <br>📫 How to reach me **anikethprajapati@gmail.com**<br>📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mwXPMMeLc7fFmknl-md9bVOj7Em1RKq_/view?usp=sharing)<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniketpr01) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aniketpr01) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aniketpr01) 
 
